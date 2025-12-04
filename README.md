@@ -16,10 +16,11 @@ This project focuses on analyzing state‑level home care data to identify the k
 
 The following files are provided to support the analysis:
 
-HH_State_Oct2025.csv – A CSV file containing data on home health quality and associated measurement metrics. The answers to the questions above are based on this dataset.
-README.d – A documentation file that includes all necessary instructions and details required to run the analysis.
-home_healthcare_quality.ipynb – A Jupyter Notebook source file containing the code for performing the analysis. It can be opened in Jupyter Notebook and requires Python 3.x.
-home_healthcare_quality.py – A Python script containing the same analysis code. It can be executed using Python 3.x.
+1.  HH_State_Oct2025.csv – A CSV file containing data on home health quality and associated measurement metrics. The answers to the questions above are based on this dataset.
+2.  README.d – A documentation file that includes all necessary instructions and details required to run the analysis.
+3.  home_healthcare_quality.ipynb – A Jupyter Notebook file containing the complete analysis workflow, including data preparation and validation, model development, and evaluation. It can be opened in Jupyter Notebook and requires Python 3.x. 
+4.  home_healthcare_quality.py – A Python script containing the same analysis code. It can be executed using Python 3.x.
+
 
 ## Results
 
