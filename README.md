@@ -23,7 +23,7 @@ home_healthcare_quality.py – A Python script containing the same analysis code
 
 ## Results
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@hirzahida/improving-home-health-care-quality-a-data-driven-approach-a4e345dc19f7?postPublishedType=repub).
 
 ## Licensing, Authors, Acknowledgements
 
