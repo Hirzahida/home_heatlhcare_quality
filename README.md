@@ -2,7 +2,7 @@
 Home health agencies play a critical role in patient recovery and long-term care. The Centers for Medicare &amp; Medicaid Services (CMS) provides performance data for these agencies, including quality ratings and patient outcome measures.
 
 ## Installation
-The code should run with no issues using Python versions 3.*.
+The code can be opened in a Jupyter Notebook and requires Python 3.x.
 
 ## Project Introduction
 
