@@ -23,8 +23,8 @@ home_healthcare_quality.py – A Python script containing the same analysis code
 
 ## Results
 
-The main findings of the code can be found at the post available [here](https://medium.com/@hirzahida/improving-home-health-care-quality-a-data-driven-approach-a4e345dc19f7?postPublishedType=repub).
+The main findings from the analysis are summarized in the Medium post available [here](https://medium.com/@hirzahida/improving-home-health-care-quality-a-data-driven-approach-a4e345dc19f7?postPublishedType=repub).
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+This dataset used in this analysis is publicly available [here](	https://data.cms.gov/provider-data/dataset/tee5-ixt5). It was published by Centers for Medicare & Medicaid Services (CMS) on October 22, 2025. 
